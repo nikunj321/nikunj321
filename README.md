@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikunj321)](https://github.com/nikunj321/github-profile-trophy)
+
+
 <!--
 **nikunj321/nikunj321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
